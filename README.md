@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![NiFix-NoteApp](/public/nifix-noteapp.png)
+![NiFix-NoteApp](/public/nifix-noteapp.PNG)
 
 View app [here](https://gatemediang.github.io/NiFix-NoteApp)
 
