@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NiFix-NoteApp/static/css/main.e5d4db96.chunk.css",
+    "main.js": "/NiFix-NoteApp/static/js/main.1f8b5958.chunk.js",
+    "main.js.map": "/NiFix-NoteApp/static/js/main.1f8b5958.chunk.js.map",
+    "runtime-main.js": "/NiFix-NoteApp/static/js/runtime-main.85b3d359.js",
+    "runtime-main.js.map": "/NiFix-NoteApp/static/js/runtime-main.85b3d359.js.map",
+    "static/js/2.91960fe2.chunk.js": "/NiFix-NoteApp/static/js/2.91960fe2.chunk.js",
+    "static/js/2.91960fe2.chunk.js.map": "/NiFix-NoteApp/static/js/2.91960fe2.chunk.js.map",
+    "index.html": "/NiFix-NoteApp/index.html",
+    "precache-manifest.350a8d72c45df92a84e40c0bebad4cea.js": "/NiFix-NoteApp/precache-manifest.350a8d72c45df92a84e40c0bebad4cea.js",
+    "service-worker.js": "/NiFix-NoteApp/service-worker.js",
+    "static/css/main.e5d4db96.chunk.css.map": "/NiFix-NoteApp/static/css/main.e5d4db96.chunk.css.map",
+    "static/js/2.91960fe2.chunk.js.LICENSE.txt": "/NiFix-NoteApp/static/js/2.91960fe2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85b3d359.js",
+    "static/js/2.91960fe2.chunk.js",
+    "static/css/main.e5d4db96.chunk.css",
+    "static/js/main.1f8b5958.chunk.js"
+  ]
+}
