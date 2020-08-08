@@ -2,9 +2,9 @@ import React from "react";
 
 //class based component
 class TodoItem extends React.Component {
-  /*componentWillUnmount() {
+  componentWillUnmount() {
     alert("Item about to be deleted!");
-  }*/
+  }
 
   render() {
     const completedStyle = {
